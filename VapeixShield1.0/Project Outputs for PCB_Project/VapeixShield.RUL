@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: D:\Vapeix_Shield\PCB_Project\VapeixShield.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=isvia|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.39
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
