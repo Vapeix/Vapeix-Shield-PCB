@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for External_Board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -39,57 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=External_Board_1mode.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YAQGQKSI
-
-[Document2]
-DocumentPath=External_Board_2mode.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PLKBVTQR
-
-[Document3]
-DocumentPath=External_Board_3mode.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CIRVLQNW
-
-[Document4]
 DocumentPath=External_Board_1 mode.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +55,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWIKAPPO
 
-[Document5]
+[Document2]
 DocumentPath=External_Board_2 mode.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IAOCCFNS
 
-[Document6]
+[Document3]
 DocumentPath=ExternalLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAGVUIRK
 
-[Document7]
+[Document4]
 DocumentPath=ExternaLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMXCADCG
 
-[Document8]
+[Document5]
 DocumentPath=External_Board_3 mode.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRPTWOWO
 
-[Document9]
+[Document6]
 DocumentPath=CAMtastic1_External1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document7]
 DocumentPath=CAMtastic1_External2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document8]
 DocumentPath=CAMtastic1_External3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,97 +174,56 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for External_Board\Design Rule Check - External_Board_3 mode.html
+[Document9]
+DocumentPath=External_Board_1mode.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WCEIQVSX
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.EXTREP
+[Document10]
+DocumentPath=External_Board_2mode.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NJQMPOLB
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GBL
+[Document11]
+DocumentPath=External_Board_3mode.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for External_Board\External_Board_2 mode.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for External_Board\External_Board_3 mode.RUL
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRHROSFE
 
 [Configuration1]
 Name=Default Configuration
@@ -364,7 +272,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for External_Board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
