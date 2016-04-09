@@ -1,0 +1,2 @@
+Remove Pin=J5-3 From Net=BAT+
+Change Pin Designator/Name:  Old Designator=J5-2 Old Name=2 New Designator =3 New Name=3
