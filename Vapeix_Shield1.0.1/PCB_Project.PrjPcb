@@ -123,96 +123,95 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=CAMtastic1_Vapeix.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Project\Design Rule Check - VapeixShield.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.EXTREP
+DocumentPath=Project Outputs for PCB_Project\VapeixShield-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.G1
+DocumentPath=Project Outputs for PCB_Project\VapeixShield-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.G2
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBL
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBO
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBP
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBS
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GD1
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GG1
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GKO
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GPB
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GPT
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTL
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTO
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTP
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTS
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_Project\VapeixShield.REP
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PCB_Project\VapeixShield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for PCB_Project\VapeixShield.RUL
 DItemRevisionGUID=
 
@@ -231,7 +230,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -647,6 +646,8 @@ OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
