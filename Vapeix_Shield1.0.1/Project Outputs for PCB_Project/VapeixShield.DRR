@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VapeixShield.PcbDoc   4/20/2016  2:53:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VapeixShield-RoundHoles.TXT
+ASCII SlotHoles File : VapeixShield-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             65        PTH        13.47inch (342.15mm)
+T3      16mil (0.399mm)                                           Round             6         PTH        2.09inch (53.04mm)
+T4      32mil (0.8mm)                                             Round             12        PTH        3.54inch (89.98mm)
+T5      39mil (1.001mm)                                           Round             32        PTH        7.71inch (195.78mm)
+T6      39mil (1.001mm)                                           Slot              3         PTH        1.08inch (27.31mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              119
+
+Total Processing Time (hh:mm:ss) : 00:00:00
