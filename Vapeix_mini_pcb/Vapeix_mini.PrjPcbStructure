@@ -1,5 +1,1 @@
-Record=TopLevelDocument|FileName=BLOCK.SchDoc
-Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Vapeix_mini_Shield.SchDoc|SymbolType=Normal|RawFileName=Vapeix_mini_Shield.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Vapeix_mini_connector.SchDoc|SymbolType=Normal|RawFileName=Vapeix_mini_connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Vapeix_mini_power.SchDoc|SymbolType=Normal|RawFileName=Vapeix_mini_power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=BLOCK.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Vapeix_mini_nrf.SchDoc|SymbolType=Normal|RawFileName=Vapeix_mini_nrf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Vapeix_mini_connector.SchDoc

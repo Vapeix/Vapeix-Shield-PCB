@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Vapeix_mini
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -174,23 +174,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHRXAFLY
 
-[Document9]
-DocumentPath=BLOCK.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MOKBVVRQ
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -238,7 +221,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Vapeix_mini
 
 [OutputGroup1]
 Name=Netlist Outputs
